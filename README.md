@@ -1,11 +1,3 @@
-CREATE TABLE students (
-    id INT AUTO_INCREMENT PRIMARY KEY,
-    user TEXT NOT NULL,
-    email TEXT NOT NULL UNIQUE,
-    pass TEXT NOT NULL
-);
-
-
 # 🎓 Student Portal System
 
 A user-friendly web-based system that allows students to register, log in, and access a personalized dashboard for managing courses, assignments, grades, and other academic resources.
