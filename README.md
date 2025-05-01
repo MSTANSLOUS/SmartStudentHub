@@ -1,15 +1,3 @@
-Student System/
-├── css/
-│   └── style.css
-├── server_side/
-│   ├── db_connection.php
-│   ├── sign_up.php
-│   └── sign_in.php
-├── index.php
-├── dash_board.php
-└── README.md
-
-
 CREATE TABLE students (
     id INT AUTO_INCREMENT PRIMARY KEY,
     user TEXT NOT NULL,
